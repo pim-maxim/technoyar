@@ -19,7 +19,7 @@
     ?>
     
     <div class="uk-container main_text">
-        <h2 class="uk-text-center">Агат. Серия А</h2>
+        <h2 class="uk-text-center">Агат.. Серия А</h2>
         <hr class="uk-divider-small uk-text-center">
         <div class="uk-child-width-1-4@s uk-grid-small uk-text-center stone_desc" uk-grid>
             <div>
