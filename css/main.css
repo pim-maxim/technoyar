@@ -1,0 +1,181 @@
+@import url("https://fonts.googleapis.com/css?family=Prosto+One&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700|Poiret+One&display=swap");
+@font-face {
+  font-family: 'GhostClanGradientRegular';
+  src: url("../fonts/ghostclangrad/ghostclangrad.eot") format("eot");
+  src: url("../fonts/ghostclangrad/ghostclangrad.woff") format("woff"), url("../fonts/ghostclangrad/ghostclangrad.ttf") format("truetype"), url("../fonts/ghostclangrad/ghostclangrad.svg#GhostClanGradient") format("svg"); }
+
+p {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.1em; }
+
+nav {
+  background-color: #000; }
+
+.menu_logo h1 {
+  font-family: 'GhostClanGradientRegular';
+  font-size: 47px;
+  margin-bottom: -1px; }
+
+.mobile_menu {
+  outline: none; }
+
+.uk-card-primary.uk-card-body .uk-button-default, .uk-card-primary > :not([class*=uk-card-media]) .uk-button-default, .uk-card-secondary.uk-card-body .uk-button-default, .uk-card-secondary > :not([class*=uk-card-media]) .uk-button-default, .uk-light .uk-button-default, .uk-offcanvas-bar .uk-button-default, .uk-overlay-primary .uk-button-default, .uk-section-primary:not(.uk-preserve-color) .uk-button-default, .uk-section-secondary:not(.uk-preserve-color) .uk-button-default, .uk-tile-primary:not(.uk-preserve-color) .uk-button-default, .uk-tile-secondary:not(.uk-preserve-color) .uk-button-default {
+  background-color: #1e87f0;
+  border: none;
+  -webkit-transition: 1s;
+  -o-transition: 1s;
+  transition: 1s; }
+  .uk-card-primary.uk-card-body .uk-button-default:hover, .uk-card-primary > :not([class*=uk-card-media]) .uk-button-default:hover, .uk-card-secondary.uk-card-body .uk-button-default:hover, .uk-card-secondary > :not([class*=uk-card-media]) .uk-button-default:hover, .uk-light .uk-button-default:hover, .uk-offcanvas-bar .uk-button-default:hover, .uk-overlay-primary .uk-button-default:hover, .uk-section-primary:not(.uk-preserve-color) .uk-button-default:hover, .uk-section-secondary:not(.uk-preserve-color) .uk-button-default:hover, .uk-tile-primary:not(.uk-preserve-color) .uk-button-default:hover, .uk-tile-secondary:not(.uk-preserve-color) .uk-button-default:hover {
+    background-color: #f00;
+    -webkit-transition: 1s;
+    -o-transition: 1s;
+    transition: 1s; }
+
+.uk-navbar-dropdown-nav .uk-nav-header {
+  color: #1e87f0; }
+
+.header_slider p {
+  font-family: 'Prosto One', cursive;
+  font-size: 1.5em;
+  padding-top: 200px;
+  text-shadow: 2px 2px 1px black;
+  color: #fff; }
+
+.main_title h2 {
+  color: #1e87f0;
+  font-family: 'Prosto One', cursive;
+  font-size: 1.5em;
+  text-decoration: underline; }
+
+.uk-card-default .uk-card-title {
+  color: #1e87f0;
+  font-family: 'Prosto One', cursive;
+  font-size: 1em; }
+
+.uk-button-text {
+  color: #1e87f0; }
+
+.name, .mail, .phone {
+  width: 95%;
+  height: 40px;
+  border: 1px solid #1e87f0;
+  outline: none;
+  margin-bottom: 15px;
+  font-family: 'Prosto One', cursive;
+  font-size: 15px;
+  padding-left: 20px; }
+
+textarea {
+  width: 95%;
+  height: 150px;
+  border: 1px solid #1e87f0;
+  outline: none;
+  font-family: 'Prosto One', cursive;
+  font-size: 15px;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-bottom: 15px;
+  resize: none; }
+
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+  color: #333;
+  opacity: 0.3; }
+
+input:-ms-input-placeholder, textarea:-ms-input-placeholder {
+  color: #333;
+  opacity: 0.3; }
+
+input::-ms-input-placeholder, textarea::-ms-input-placeholder {
+  color: #333;
+  opacity: 0.3; }
+
+input::placeholder, textarea::placeholder {
+  color: #333;
+  opacity: 0.3; }
+
+.footer {
+  margin-top: 50px;
+  padding: 50px 0; }
+  .footer h2 {
+    font-family: 'Prosto One', cursive;
+    font-size: 15px;
+    color: #1e87f0; }
+  .footer h3 {
+    font-family: 'Prosto One', cursive;
+    font-size: 15px;
+    color: #aaa;
+    text-decoration: underline; }
+  .footer span {
+    color: #999; }
+  .footer_desc {
+    margin-bottom: 10px; }
+
+.menu_contact {
+  width: 100%; }
+  .menu_contact h3 {
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #1e87f0;
+    text-decoration: underline; }
+  .menu_contact span {
+    font-size: 14px;
+    color: #999; }
+  .menu_contact_desc {
+    margin-bottom: 10px; }
+
+.uk-width-large {
+  width: 500px; }
+  .uk-width-large h3 {
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #1e87f0;
+    text-decoration: underline; }
+  .uk-width-large span {
+    font-size: 14px;
+    color: #999; }
+  .uk-width-large a {
+    color: #1e87f0; }
+    .uk-width-large a::hover {
+      color: #1e87f0; }
+
+.seo_block {
+  padding-bottom: 20px; }
+  .seo_block_left {
+    float: left; }
+  .seo_block_right {
+    float: right; }
+  .seo_block span {
+    margin-left: 25px; }
+
+.mobile_menu_contact h3 {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #1e87f0;
+  text-decoration: underline; }
+
+.mobile_menu_contact span {
+  font-size: 14px;
+  color: #999; }
+
+.main_text {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.1em; }
+  .main_text h2 {
+    text-transform: uppercase;
+    font-family: 'Prosto One', cursive;
+    font-size: 1.5em;
+    color: #1e87f0; }
+  .main_text h3 {
+    font-family: 'Prosto One', cursive;
+    font-size: 1.5em;
+    color: #1e87f0; }
+  .main_text img {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px; }
+
+.stone_desc p, .stone_desc a {
+  font-family: 'Prosto One', cursive;
+  font-size: 1em;
+  color: #1e87f0; }
