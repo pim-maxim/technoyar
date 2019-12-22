@@ -179,3 +179,7 @@ input::placeholder, textarea::placeholder {
   font-family: 'Prosto One', cursive;
   font-size: 1em;
   color: #1e87f0; }
+
+.samples {
+  font-size: 50px;
+  text-decoration: underline; }
